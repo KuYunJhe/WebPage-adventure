@@ -1,2 +1,2 @@
 echo # WebPage-adventure
-Hello KYJ
+This is a test project.
